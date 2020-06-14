@@ -1,0 +1,36 @@
+body {
+    background: rgba(195, 226, 217, 0.8)
+}
+section {
+    background: rgba(38, 192, 197, 0.8)
+}
+h1 {
+  color: rgba(65, 52, 102, 0.8) 
+}
+p {
+    color: rgba(59, 21, 109, 0.8)
+}
+h2 {
+    color: rgb(57, 16, 133)
+}
+h4{
+    color: rgb(79, 12, 105)
+}
+footer{
+    background: rgba(146, 156, 187, 0.8)
+}
+.header-links-background{
+    background: rgba(62, 145, 212, 0.8)
+}
+.number1-background{
+    background: rgb(124, 84, 218)
+}
+.number2-background{
+    background: rgb(106, 177, 224)
+}
+.number3-background{
+    background: rgb(39, 201, 174)
+}
+a {
+    color: white
+}
